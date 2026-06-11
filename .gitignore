@@ -1,0 +1,12 @@
+# Entornos y temporales de Antigravity/Gemini
+.system_generated/
+.tempmediaStorage/
+*.png
+*.webp
+*.log
+
+# Archivos de configuración de editores/IDE y SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
