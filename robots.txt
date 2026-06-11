@@ -1,10 +1,10 @@
 # ==============================================================================
 # Archivo de instrucciones para motores de búsqueda (SEO)
-# Clínica del día Federico Cedeño - https://clinicacedeño.com
+# Clínica del día Federico Cedeño - https://clinicacedeno.com
 # ==============================================================================
 
 User-agent: *
 Allow: /
 
 # Enlace al mapa del sitio (Sitemap)
-Sitemap: https://clinicacedeño.com/sitemap.xml
+Sitemap: https://clinicacedeno.com/sitemap.xml
